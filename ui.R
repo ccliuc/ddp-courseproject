@@ -21,6 +21,7 @@ shinyUI(
                         p('Third, click the submit button.'),
                         p('After clicking the submit button, the app will predict the stopping distance.'),
                         p('Meanwhile, the prediction curve is shown.'),
+                        p('The ui.R and server.R code can be found on github https://github.com/ccliuc/ddp-courseproject'),
                         p(),                       
                         h3('Results of prediction'),
                         h4('You entered the speed (unit mph)'),
